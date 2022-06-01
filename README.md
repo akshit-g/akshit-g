@@ -14,6 +14,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+
 <!---
 akshit-g/akshit-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -24,3 +26,5 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshit-g&repo=aksh&theme=aura)](https://github.com/akshit-g/aksh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-g&layout=compact&theme=aura)](https://github.com/akshit-g)
+
+<img src="https://komarev.com/ghpvc/?username=akshit-g&style=flat-square&color=blue" alt=""/>
