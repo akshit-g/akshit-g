@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/akshit-g/<OWNER>/<OWNER>/Header.png "Header")]
+[![Header](https://raw.githubusercontent.com/akshit-g/<OWNER>/<OWNER>/Header.png "Header")](https://github.com/akshit-g/akshit-g/blob/main/Header.png)
 - 👋 Hi, I’m @akshit-g
 - 👀 I’m interested in learning Penetration Testing and also working on BCI
 - 🌱 I’m currently learning C++ and Javascript
