@@ -1,6 +1,7 @@
+[![Header](https://raw.githubusercontent.com/akshit-g/<OWNER>/<OWNER>/Header.png "Header")](https://some-url.dev/)
 - 👋 Hi, I’m @akshit-g
-- 👀 I’m interested in learning Penetration Testing along with BCI
-- 🌱 I’m currently learning C++ and Applied AI
+- 👀 I’m interested in learning Penetration Testing and also working on BCI
+- 🌱 I’m currently learning C++ and Javascript
 - 💞️ I’m looking to collaborate on Automation, BCI, Data Structures
 - 📫 How to reach me gandotra.akshit@gmail.com
 
