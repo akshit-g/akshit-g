@@ -11,4 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshit-g&theme=aura&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshit-g&repo=aksh)](https://github.com/akshit-g/aksh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshit-g&repo=aksh&theme=aura)](https://github.com/akshit-g/aksh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-g&layout=compact)](https://github.com/akshit-g/aksh)
