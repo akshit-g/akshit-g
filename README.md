@@ -1,18 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="200"/>
 </div>
-<div id="badges">
-  <a href="https://in.linkedin.com/in/akshitgandotra">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
+<br>
 - 👋 Hi, I’m @akshit-g
 - 👀 I’m interested in learning Penetration Testing and also working on BCI
 - 🌱 I’m currently learning C++ and Javascript
 - 💞️ I’m looking to collaborate on Automation, BCI, Data Structures
 - 📫 How to reach me gandotra.akshit@gmail.com
-
+<div id="badges">
+  <a href="https://in.linkedin.com/in/akshitgandotra">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!---
 akshit-g/akshit-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
