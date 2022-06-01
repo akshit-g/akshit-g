@@ -3,7 +3,7 @@
 </div>
 
 <h1>
-  Hey There!
+  Hey There, I'm Akshit Gandotra!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </h1>
 
@@ -24,6 +24,7 @@
 akshit-g/akshit-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://komarev.com/ghpvc/?username=akshit-g&style=flat-square&color=blue" alt=""/>
 
 ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshit-g&theme=aura&show_icons=true)
 
@@ -31,6 +32,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-g&layout=compact&theme=aura)](https://github.com/akshit-g)
 
-<img src="https://komarev.com/ghpvc/?username=akshit-g&style=flat-square&color=blue" alt=""/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshit-g&theme=aura)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshit-g&theme=elegant)](https://git.io/streak-stats)
