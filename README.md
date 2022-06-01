@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="200"/>
 </div>
 
-<h1>
+<h3>
   Hey There!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=5px/>
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h3>
 
 - 👋 Hi, I’m @akshit-g
 - 👀 I’m interested in learning Penetration Testing and also working on BCI
