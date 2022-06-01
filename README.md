@@ -32,3 +32,5 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-g&layout=compact&theme=aura)](https://github.com/akshit-g)
 
 <img src="https://komarev.com/ghpvc/?username=akshit-g&style=flat-square&color=blue" alt=""/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshit-g&theme=aura)](https://git.io/streak-stats)
