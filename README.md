@@ -8,9 +8,9 @@
 </h1>
 
 - 👋 Hi, I’m @akshit-g
-- 👀 I’m interested in learning Penetration Testing and also working on BCI
-- 🌱 I’m currently learning C++ and Javascript
-- 💞️ I’m looking to collaborate on Automation, BCI, Data Structures
+- 👀 I’m interested in learning Computer Vision and Front-End Frameworks
+- 🌱 I’m currently learning Django and Javascript
+- 💞️ I’m looking to collaborate on Automation, Machine Learning, Sentiment Analysis
 - 📫 How to reach me gandotra.akshit@gmail.com
 
 <div id="badges">
