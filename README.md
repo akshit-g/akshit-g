@@ -17,8 +17,6 @@
   <a href="https://in.linkedin.com/in/akshitgandotra">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=akshit-g&style=flat-square&color=blue" alt=""/>
 </div>
 
 
