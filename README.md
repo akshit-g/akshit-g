@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m @akshit-g
 - 👀 I’m interested in learning Computer Vision and Front-End Frameworks
-- 🌱 I’m currently learning Django and Javascript
+- 🌱 I’m currently learning Django and Web Development
 - 💞️ I’m looking to collaborate on Automation, Machine Learning, Sentiment Analysis
 - 📫 How to reach me gandotra.akshit@gmail.com
 
